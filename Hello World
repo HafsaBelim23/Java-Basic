@@ -1,0 +1,6 @@
+Public Class HelloWorld{
+Public Static void main (String args[]){
+
+System.out.print("Hello World"); 
+}
+}
